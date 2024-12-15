@@ -1,0 +1,91 @@
+* {
+  font-family: Arial, sans-serif;
+  margin: 0;
+  padding: 0;
+}
+
+.footer {
+  display: flex;
+  align-items: center;
+  justify-content:space-evenly;
+  margin-top: 50px;
+}
+
+.footer h4{
+  padding: 6px;
+  font-size: 16px;
+
+}
+.footer h6 {
+  font-size: 16px;
+  color:  #4d4d51;
+  font-weight: 200;
+  padding: 4px;
+  font-family:'Gill Sans', 'Gill Sans MT', Calibri, 'Trebuchet MS', sans-serif;
+}
+
+.app p {
+  display: inline-block;
+  margin: 0 15px;
+  font-size: 16px;
+  color: #333;
+}
+
+h1 {
+  font-size: 17px;
+  color: #555;
+  margin: 20px 0;
+  margin-top: 30px; 
+}
+
+.card3{
+  margin-top: -200px;
+  /* display: none; */
+}
+
+.icons {
+  display: flex;
+  justify-content: center;
+  gap: 15px;
+}
+
+.icon {
+  width: 50px;
+  height: 50px;
+  display: inline-block;
+  background-size: cover;
+  background-repeat: no-repeat;
+  border-radius: 5px;
+}
+
+.instagram {
+  background-image: url('https://upload.wikimedia.org/wikipedia/commons/a/a5/Instagram_icon.png');
+  /* margin-top: 40px; */
+  width: 40px;
+  height: 40px;
+}
+
+.telegram {
+  background-image: url('https://upload.wikimedia.org/wikipedia/commons/8/82/Telegram_logo.svg');
+  background-color: #0088cc;
+  width: 40px;
+  height: 40px;
+  /* margin-top: 40px; */
+}
+
+.youtube {
+  background-image: url('https://upload.wikimedia.org/wikipedia/commons/4/42/YouTube_icon_%282013-2017%29.png');
+  background-color: #ff0000;
+  width: 40px;
+  height: 40px;
+  /* margin-top: 40px; */
+}
+
+.facebook {
+  background-image: url('https://upload.wikimedia.org/wikipedia/commons/5/51/Facebook_f_logo_%282019%29.svg');
+  background-color: #1877f2;
+  width: 40px;
+  height: 40px;
+  /* margin-top: 40px; */
+}
+

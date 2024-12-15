@@ -1,0 +1,18 @@
+.single-rout{
+  display: flex;
+  justify-content: space-between;
+  align-items: center;
+}
+
+.single-img {
+  margin-top: 40px;
+  width: 290px;
+  min-height: 360px;
+  display: flex;
+  margin-bottom: 30px;
+}
+
+.single-text {
+  font-size: 24px;
+
+}

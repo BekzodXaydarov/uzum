@@ -1,0 +1,45 @@
+*{
+  margin: 0;
+  padding: 0;
+  box-sizing: border-box;
+}
+
+.likes{
+  /* display: flex;  */
+  justify-content: center;
+  align-items: center;
+  text-align: center;
+}
+
+.likes img{
+  width: 170px;
+  height: 170px;
+  margin-top: 150px;
+}
+
+.likes h2{
+  font-size: 24px;
+  font-family:Cambria, Cochin, Georgia, Times, 'Times New Roman', serif;
+  margin-top: 10px;
+}
+
+.likes p {
+  color: rgb(42, 42, 42);
+  font-size: 14px;
+  margin-top: 18px;
+}
+
+.likes button{
+  margin-top: 33px;
+  width: 126px;
+  height: 35px;
+  border-radius: 5px;
+  border: none;
+  background-color: #6a5acd
+}
+
+.likes a{
+  text-decoration: none;
+  color: white;
+  font-size: 15px;
+}
